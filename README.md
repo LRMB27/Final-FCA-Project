@@ -72,6 +72,6 @@ The Jenkins pipeline had three stages: in the build stage, the Docker image for 
 
 
 **Risk Management** 
-<img width="576" alt="image" src="https://github.com/LRMB27/Final-FCA-Project/assets/144361653/8057d059-a8f3-4642-aa94-e2c920bb69a7">
+<img width="576" alt="image" src="https://github.com/LRMB27/Final-FCA-Project/assets/144361653/50349aab-88a1-481e-9e90-3b7d1aded62d">
 
 
