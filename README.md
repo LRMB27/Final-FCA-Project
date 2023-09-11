@@ -24,14 +24,14 @@ CREATE TABLE log(
 **Running the code**
 python app.py
 
-# Using Curl
+**Using Curl**
 
-# Backup example
+**Backup example**
 curl -X POST http://localhost:5000 -H "Content-Type: application/json" -d '{"path":"G:\hello"}' 
 
-# Get Log
+**Get Log**
 curl localhost:5000/log?start=2023-06-01&end=2023-08-31
 
-# Get Log
+**Get Log**
 curl localhost:5000/stat
 
