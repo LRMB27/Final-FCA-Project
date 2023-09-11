@@ -2,7 +2,7 @@
 
 **Project 1**
 
-The aim of this projevct was to build a simple Flask application that could backup files and store logs of its actions in a database. The application was then containerised, stored in a private Nexus repository, and automated using Jenkins.
+The aim of this project was to build a simple Flask application that could backup files and store logs of its actions in a database. The application was then containerised, stored in a private Nexus repository, and automated using Jenkins.
 
 Project 1 involved the following technical tasks:
 1. Install Docker
