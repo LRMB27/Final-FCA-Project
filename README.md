@@ -12,9 +12,13 @@ Project 1 involved the following technical tasks:
 The backup feature involved taking a command from a Flask endpoint and executing the necessary logic in Python. These actions are all recorded in the database.
 
 **Database**
-The database can be created using the CLI in MySQL, including the following commands:
-CREATE DATABASE fca;
 
+The database can be created using the CLI in MySQL, including the following commands:
+```
+CREATE DATABASE fca;
+```
+
+```
 CREATE TABLE log(
   id        INT PRIMARY KEY AUTO_INCREMENT,
   date      TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
@@ -22,6 +26,13 @@ CREATE TABLE log(
   parameter VARCHAR(1000),
   status    VARCHAR(100)
 );
+```
+<img width="178" alt="image" src="https://github.com/LRMB27/Final-FCA-Project/assets/144361653/63c137d7-bb56-46b0-875e-ff7b29cf86a1">
+
+
+<img width="605" alt="image" src="https://github.com/LRMB27/Final-FCA-Project/assets/144361653/a6d49999-8078-4d3a-8f95-6fd5ab5aa99c">
+
+
 
 **Running the code**
 ```
